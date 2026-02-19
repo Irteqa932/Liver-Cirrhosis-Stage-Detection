@@ -162,10 +162,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 - Dataset: Mayo Clinic Liver Cirrhosis Dataset
 - Tools: Python, Google Colab
 - Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
-- Google Colab Notebook:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/your-link](https://colab.research.google.com/drive/1V9HnnojkCVS_4wuo3QliRHFQHVt0iwjL?usp=sharing))
-
-
-
-  
+- Google Colab Notebook: [Open Notebook](https://colab.research.google.com/drive/1V9HnnojkCVS_4wuo3QliRHFQHVt0iwjL?usp=sharing)
 
 ---
