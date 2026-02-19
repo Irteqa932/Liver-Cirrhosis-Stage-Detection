@@ -156,5 +156,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 * Deployment using Streamlit or Flask
 * Integration with healthcare systems
 * Deep learning approaches for advanced prediction
+---
+## Project Resources
+
+- Dataset: Mayo Clinic Liver Cirrhosis Dataset
+- Tools: Python, Google Colab
+- Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
+- Google Colab Notebook: [Open Notebook]([https://colab.research.google.com/your-link](https://colab.research.google.com/drive/1V9HnnojkCVS_4wuo3QliRHFQHVt0iwjL?usp=sharing))
+
+
+  
 
 ---
