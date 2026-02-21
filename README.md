@@ -161,3 +161,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 - Google Colab Notebook: [Open Notebook](https://colab.research.google.com/drive/1V9HnnojkCVS_4wuo3QliRHFQHVt0iwjL?usp=sharing)
 
 ---
+## Author
+
+Irtika.
+
+---
