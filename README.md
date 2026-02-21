@@ -135,7 +135,7 @@ Liver-Cirrhosis-Stage-Detection/
 1️. Clone the repository:
 
 ```
-git clone https://github.com/your-username/liver-cirrhosis-ml.git
+git clone https://github.com/your-username/liver-cirrhosis-stage-detection.git
 ```
 
 2️. Install dependencies:
